@@ -92,7 +92,7 @@
     },
     {
       "Title": "I'm Feeling Lucky",
-      "ActionKeyword": "lucky",
+      "ActionKeyword": "l",
       "Url": "https://google.com/search?q={q}&btnI=I",
       "Enabled": true
     },
@@ -124,6 +124,18 @@
       "Title": "Baidu",
       "ActionKeyword": "bd",
       "Url": "https://www.baidu.com/#ie=UTF-8&wd={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "WordReference",
+      "ActionKeyword": "wr",
+      "Url": "http://www.wordreference.com/enfr/{q}",
+      "Enabled": true
+    },
+    {
+      "Title": "Les Numériques",
+      "ActionKeyword": "num",
+      "Url": "http://www.lesnumeriques.com/recherche?q={q}",
       "Enabled": true
     }
   ],

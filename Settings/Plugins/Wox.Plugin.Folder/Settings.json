@@ -1,3 +1,19 @@
 {
-  "FolderLinks": []
+  "FolderLinks": [
+    {
+      "Path": "C:\\xampp\\htdocs"
+    },
+    {
+      "Path": "D:\\Dev"
+    },
+    {
+      "Path": "D:\\Downloads"
+    },
+    {
+      "Path": "D:\\Source"
+    },
+    {
+      "Path": "D:\\Tools"
+    }
+  ]
 }
